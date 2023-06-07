@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm Zixin Zhuang, a gameplay programmer who is studying in SMU Guildhall.\n
-Personal Website: www.zixinzhuang.com\n
-Linked In: www.linkedin.com/in/zz722
+##### I'm Zixin Zhuang, a gameplay programmer who is studying in SMU Guildhall.
+##### Personal Website: www.zixinzhuang.com
+##### Linkedin: www.linkedin.com/in/zz722
 
 
 
