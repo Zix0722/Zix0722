@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Zixin Zhuang, a gameplay programmer who is studying in SMU Guildhall.
+
 
 <!--
 **Zix0722/Zix0722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
